@@ -1,0 +1,14 @@
+img { width: 100%; }
+.popover { max-width: 276px; }
+
+#result {
+	border: 2px solid #8AC007;
+	padding: 20px;
+    border-color: #ddd;
+    border-width: 1px;
+}
+
+#resultHeader {
+	padding-top: 250px;
+	text-align: center;
+}
